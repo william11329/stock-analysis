@@ -8,7 +8,9 @@
 
 ### Analysis
 Based on the returned results we can conclude that not only does the code run more efficiently with less clutter but it also provides easy to read data in order to better understand the chosen stocks. It also provided us with a larger variety of data by allowing us to choose specific years as well as select stock options. Specific code like "RowCount = Cells(Rows.Count, "A").End(xlUp).Row" allowed us to easily obtain the rows that needed to be analyzed and plug them in. Our cell formatting along with timers and a simple messageBox made our results very easy to read.
+
 https://github.com/william11329/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true
+https://github.com/william11329/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true
 
 ## Summary
 
